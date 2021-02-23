@@ -1,0 +1,8 @@
+.navtoolbar{
+    display:flex;
+    justify-content: space-between;
+}
+
+.list:hover{
+    background-color: white;
+}

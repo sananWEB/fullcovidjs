@@ -1,0 +1,14 @@
+#typo{
+    font-weight: bold;
+    background-color: #424242;
+    width: fit-content;
+    box-sizing: border-box;
+    padding: 10px;
+    color: white;
+    margin-bottom: 8%;
+}
+
+#form{
+    width: 400px;
+    
+}

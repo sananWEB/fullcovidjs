@@ -1,0 +1,24 @@
+#Container{
+   background-color:#333333;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} 
+#signin-paper{
+    
+    padding:40px;
+    height: 500px;
+    width:600px;
+    background-color:white;
+    margin:20px;
+   
+    
+}
+
+#icon-paper{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+margin-bottom: 30px;
+}
